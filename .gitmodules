@@ -1,0 +1,6 @@
+[submodule "Backend/04_proyecto_tienda_zapatillas"]
+	path = Backend/04_proyecto_tienda_zapatillas
+	url = https://github.com/IgnacioLF/04_proyecto_tienda_zapatillas.git
+[submodule "Frontend/tienda_zapatillas_web"]
+	path = Frontend/tienda_zapatillas_web
+	url = https://github.com/IgnacioLF/tienda_zapatillas_web.git
